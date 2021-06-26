@@ -13,3 +13,16 @@ The different types of backgrounds used were:
 * OpenCV
 * Matplotlib
 * Imutils
+
+#### Cite This:
+```
+    @ONLINE {rdas2021greenscreen,
+    author = "Rajashree Das",
+    title = "Replacing green screen with different kind of backgrounds",
+    month  = "june",
+    year   = "2021",
+    url    = "https://github.com/rajashreedas7/replace-green-screen",
+    doi    = "10.5281/zenodo.5034668"}
+    
+ ```
+
